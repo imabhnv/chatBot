@@ -1,4 +1,4 @@
-# ChatGPT-like App using Streamlit and Groq API
+# ChatGPT-like App 
 
 This application demonstrates a ChatGPT-like interface built with Streamlit and powered by the Groq API for natural language processing.
 
